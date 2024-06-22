@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "France",
+    "image": "/countries/france.jpg",
+    "funFact": "The Eiffel Tower is repainted every 7 years.",
+    "cities": ["Paris", "Lyon", "Marseille", "Nice", "Toulouse", "Strasbourg"],
+    "region": "Europe"
+  },
+  {
+    "id": 2,
+    "name": "Japan",
+    "image": "/countries/japan.jpg",
+    "funFact": "Japan has more than 5 million vending machines.",
+    "cities": ["Tokyo", "Kyoto", "Osaka", "Hiroshima", "Sapporo", "Nagasaki"],
+    "region": "Asia"
+  },
+  {
+    "id": 3,
+    "name": "Brazil",
+    "image": "/countries/brazil.jpg",
+    "funFact": "Brazil hosts the world's largest carnival in Rio.",
+    "cities": ["Rio de Janeiro", "São Paulo", "Brasília", "Salvador", "Recife", "Fortaleza"],
+    "region": "South America"
+  },
+  {
+    "id": 4,
+    "name": "Canada",
+    "image": "/countries/canada.jpg",
+    "funFact": "Canada has more lakes than the rest of the world combined.",
+    "cities": ["Toronto", "Vancouver", "Montreal", "Calgary", "Ottawa", "Edmonton"],
+    "region": "North America"
+  },
+  {
+    "id": 5,
+    "name": "Australia",
+    "image": "/countries/australia.jpg",
+    "funFact": "Australia has more kangaroos than people.",
+    "cities": ["Sydney", "Melbourne", "Brisbane", "Perth", "Adelaide", "Canberra"],
+    "region": "Oceania"
+  },
+  {
+    "id": 6,
+    "name": "Italy",
+    "image": "/countries/italy.jpg",
+    "funFact": "Italy has more UNESCO World Heritage sites than any other country.",
+    "cities": ["Rome", "Milan", "Venice", "Florence", "Naples", "Turin"],
+    "region": "Europe"
+  },
+  {
+    "id": 7,
+    "name": "India",
+    "image": "/countries/india.jpg",
+    "funFact": "India is the birthplace of chess and yoga.",
+    "cities": ["Delhi", "Mumbai", "Bangalore", "Chennai", "Kolkata", "Jaipur"],
+    "region": "Asia"
+  },
+  {
+    "id": 8,
+    "name": "Germany",
+    "image": "/countries/germany.jpg",
+    "funFact": "Germany is home to over 1,500 types of beer.",
+    "cities": ["Berlin", "Munich", "Hamburg", "Frankfurt", "Cologne", "Stuttgart"],
+    "region": "Europe"
+  },
+  {
+    "id": 9,
+    "name": "South Africa",
+    "image": "/countries/south-africa.jpg",
+    "funFact": "South Africa has three capital cities.",
+    "cities": ["Cape Town", "Johannesburg", "Pretoria", "Durban", "Bloemfontein", "Port Elizabeth"],
+    "region": "Africa"
+  },
+  {
+    "id": 10,
+    "name": "Egypt",
+    "image": "/countries/egypt.jpg",
+    "funFact": "The Great Pyramid of Giza is the only surviving ancient wonder.",
+    "cities": ["Cairo", "Alexandria", "Giza", "Luxor", "Aswan", "Sharm El-Sheikh"],
+    "region": "Africa"
+  },
+  {
+    "id": 11,
+    "name": "Mexico",
+    "image": "/countries/mexico.jpg",
+    "funFact": "Mexico introduced chocolate, chili, and corn to the world.",
+    "cities": ["Mexico City", "Guadalajara", "Monterrey", "Puebla", "Cancún", "Tijuana"],
+    "region": "North America"
+  },
+  {
+    "id": 12,
+    "name": "China",
+    "image": "/countries/china.jpg",
+    "funFact": "The Great Wall of China is more than 13,000 miles long.",
+    "cities": ["Beijing", "Shanghai", "Shenzhen", "Guangzhou", "Chengdu", "Xi'an"],
+    "region": "Asia"
+  },
+  {
+    "id": 13,
+    "name": "United States",
+    "image": "/countries/usa.jpg",
+    "funFact": "The U.S. is home to the most Olympic gold medals of all time.",
+    "cities": ["New York", "Los Angeles", "Chicago", "Houston", "San Francisco", "Miami"],
+    "region": "North America"
+  },
+  {
+    "id": 14,
+    "name": "Thailand",
+    "image": "/countries/thailand.jpg",
+    "funFact": "Thailand is the only Southeast Asian country never colonized by Europe.",
+    "cities": ["Bangkok", "Chiang Mai", "Phuket", "Pattaya", "Ayutthaya", "Krabi"],
+    "region": "Asia"
+  },
+  {
+    "id": 15,
+    "name": "Russia",
+    "image": "/countries/russia.jpg",
+    "funFact": "Russia spans 11 time zones — the most in the world.",
+    "cities": ["Moscow", "Saint Petersburg", "Novosibirsk", "Yekaterinburg", "Kazan", "Sochi"],
+    "region": "Europe/Asia"
+  },
+  {
+    "id": 16,
+    "name": "United Kingdom",
+    "image": "/countries/uk.jpg",
+    "funFact": "The UK has hosted the Olympics three times in London.",
+    "cities": ["London", "Manchester", "Edinburgh", "Birmingham", "Glasgow", "Liverpool"],
+    "region": "Europe"
+  },
+  {
+    "id": 17,
+    "name": "Argentina",
+    "image": "/countries/argentina.jpg",
+    "funFact": "Argentina is the birthplace of tango.",
+    "cities": ["Buenos Aires", "Córdoba", "Rosario", "Mendoza", "Mar del Plata", "La Plata"],
+    "region": "South America"
+  },
+  {
+    "id": 18,
+    "name": "South Korea",
+    "image": "/countries/south-korea.jpg",
+    "funFact": "South Korea has the fastest average internet speed in the world.",
+    "cities": ["Seoul", "Busan", "Incheon", "Daegu", "Daejeon", "Gwangju"],
+    "region": "Asia"
+  },
+  {
+    "id": 19,
+    "name": "Turkey",
+    "image": "/countries/turkey.jpg",
+    "funFact": "Istanbul is the only city that spans two continents.",
+    "cities": ["Istanbul", "Ankara", "Izmir", "Bursa", "Antalya", "Konya"],
+    "region": "Europe/Asia"
+  },
+  {
+    "id": 20,
+    "name": "Greece",
+    "image": "/countries/greece.jpg",
+    "funFact": "Greece is home to the first Olympic Games in 776 BC.",
+    "cities": ["Athens", "Thessaloniki", "Patras", "Heraklion", "Rhodes", "Chania"],
+    "region": "Europe"
+  }
+]
