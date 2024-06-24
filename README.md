@@ -48,3 +48,5 @@ I’ll design a clean card layout grid like this:
 1. **Figma Design** – simple desktop + mobile version
 2. **Basic React Structure** – App, CountryCard, data.json
 
+
+<img src="./src/assets/design-country-explorer.png" alt="Design"/>
